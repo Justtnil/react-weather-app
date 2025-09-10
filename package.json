@@ -15,10 +15,9 @@
   "devDependencies": {
   "webpack-cli": "^latest"
 },
-  "devDependencies": {
-  "webpack-cli": "^latest",
+"devDependencies": {
+  "webpack-cli": "^5.1.4",
   "@preact/preset-vite": "^2.10.2",
   "vite": "^7.1.2"
-
-  }
+}
 }
